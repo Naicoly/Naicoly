@@ -1,5 +1,5 @@
 ### Olá sou Nicoly, mas apelidada de Naicoly👋
-_oi_ #oi# *oi* "oi" :oi:
+_ oi _  # oi #  * oi *  " oi "  : oi :  oi 
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
